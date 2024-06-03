@@ -42,6 +42,9 @@ function footerBar() {
        <a href="https://github.com/Douglas-James" target="_blank"
          ><i class="fab fa-github fa-lg"></i
        ></a>
+       <a href="mailto:haileryle@gmail.com" target="_blank">
+       <i class="fas fa-envelope fa-lg"></i></a>
+       </a>
      </div>
    </div>
  </footer>

@@ -12,7 +12,7 @@ fetch("./assents/data/data.json") // Corrected path to the JSON file
         <h5 class="card-title">${project.name}</h5>
         <p class="card-text">${project.description}</p>
         <p class="card-text">Completed ${project.completed? "Yes" : "No"}</p>
-        <a href="${project.link}" class="btn btn-primary">Not Aviable</a>
+        <a href="#" class="btn btn-warning">Not Aviable</a>
         </div>
       `;
       projectsList.appendChild(listItem);
