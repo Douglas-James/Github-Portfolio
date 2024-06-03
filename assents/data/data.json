@@ -1,0 +1,34 @@
+{
+   "projects": [
+      {
+         "title": "Project 1",
+         "name": "Workout Tracker",
+         "description": "This is a workout tracker that allows the user to track their workouts and see their progress over time. The user can add exercises to a workout and see the total duration of the workout. The user can also view the stats of their last workout.",
+         "link": "http://www.google.com",
+         "completed": false
+         
+      },
+      {
+         "title": "Project 2",
+         "name": "Donation $0.25",
+         "description": "This is a donation app that allows the user to donate $0.25 to a charity of their choice. The user can select a charity from a list of charities and donate $0.25 to that charity. The user can also see the total amount of money donated to each charity.",
+         "link": "http://www.google.com",
+         "completed": false
+      },
+      {
+         "title": "Project 3",
+         "name": "E-commerce Website",
+         "description": "This is an e-commerce website that allows the user to browse products, add products to their cart, and checkout. The user can search for products, filter products by category, and sort products by price. The user can also view their cart, remove products from their cart, and place an order.",
+         "link": "http://www.google.com",
+         "completed": false
+      }
+   ],
+   "bio": [
+      {
+         "card": "",
+         "name": "James Douglas",
+         "description": "Hello everyone!<br><br> My name is James, and my journey began in Ethiopia when I was about 9 years old. I was adopted and brought to Texas, where I grew up. My passion for programming started with a simple task: fixing a family printer. That small success sparked a love for learning digital applications that has only grown over the years.<br><br> I began with a Scratch coding course, which was sometimes difficult to understand, but the puzzle-like buttons made it enjoyable. Since then, I've dived into various programming courses and projects. One standout experience was working with a Raspberry Pi on facial recognition, among other exciting endeavors. Each project has taught me something new and fueled my enthusiasm for technology even more.<br><br> I completed a Bootcamp called Coding Dojo and am now finishing the MIT xPRO MERN course.<br><br> Thank you for the opportunity to share a bit about myself. I'm excited to be here and look forward to connecting with you all!",     
+         "img": "./assents/img/profile.jpg"
+      }
+   ]
+}
